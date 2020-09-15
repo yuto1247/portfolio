@@ -1,4 +1,4 @@
- @media screen and (max-width: 767px) {
+@media screen and (max-width: 767px) {
   * {
     margin: 0;
     padding: 0;
@@ -168,17 +168,13 @@
     display: none;
   }
 
-  .me-top {
-    display: flex;
-  }
-
   .me-top h2 {
     padding-left: 20px;
     padding-top: 10px;
   }
 
   .me-top img {
-    width: 50px;
+    display: none;
   }
 
   .about-left {
@@ -193,23 +189,20 @@
     padding-top: 40px;
   }
 
-  .character-top {
-    display: flex;
-  }
-
   .character-top img {
-    width: 40px;
-    padding-right: 20px;
+    display: none;
   }
 
   .character-list {
-    display: flex;
     padding-top: 15px;
   }
 
   .character-list img {
-    width: 30px;
-    padding-right: 10px;
+    display: none;
+  }
+
+  .check {
+    color: #fff;
   }
 
   .character-list p {
@@ -291,7 +284,7 @@
   .lp img {
     width: 40px;
     position: absolute;
-    left: 45%;
+    left: 47%;
     top: 17%;
   }
 
@@ -314,8 +307,8 @@
   .cording img {
     width: 40px;
     position: absolute;
-    top: 18%;
-    left: 45%;
+    top: 20%;
+    left: 47%;
   }
 
   .cording h2 {
@@ -338,7 +331,6 @@
     text-align: center;
     font-family: serif;
   }
-
 
 
   footer {
