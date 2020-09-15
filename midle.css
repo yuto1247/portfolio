@@ -319,50 +319,8 @@
     padding-top: 50px;
     text-align: center;
     font-family: serif;
-  }
-
-  .concel {
-    padding-top: 40px;
-    padding-bottom: 60px;
-  }
-
-  .mailForm {
-    padding-bottom: 50px;
-  }
-
-  #name {
-    width: 640px;
-    height: 30px;
-  }
-
-
-  dd {
-    padding-bottom: 15px;
-  }
-
-  #email {
-    width: 640px;
-    height: 40px;
-  }
-
-  #content {
-    width: 640px;
-    height: 200px;
-  }
-
-  #submit_button {
-    margin-top: 10px;
-    width: 640px;
-    height: 40px;
-    color: #fff;
-    background-color: #FFFF00;
-    border-radius: 5px;
-  }
-
-  #submit_button:hover {
-    color: #000;
-  }
-
+  } 
+   
   footer {
     text-align: center;
     padding: 30px;
