@@ -339,48 +339,7 @@
     font-family: serif;
   }
 
-  .concel {
-    text-align: center;
-    padding-top: 40px;
-    padding-bottom: 60px;
-  }
 
-  .mailForm {
-    padding-bottom: 50px;
-  }
-
-  dd {
-    padding-bottom: 15px;
-  }
-
-  #name {
-    width: 80%;
-    height: 30px;
-    color: #000;
-  }
-
-  #email {
-    width: 80%;
-    height: 40px;
-  }
-
-  #content {
-    width: 80%;
-    height: 200px;
-  }
-
-  #submit_button {
-    margin-top: 10px;
-    width: 80%;
-    height: 40px;
-    color: #fff;
-    background-color: #FFFF00;
-    border-radius: 5px;
-  }
-
-  #submit_button:hover {
-    color: #000;
-  }
 
   footer {
     text-align: center;
