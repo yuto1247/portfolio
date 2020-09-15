@@ -1,4 +1,4 @@
-@media screen and (max-width: 767px) {
+ @media screen and (max-width: 767px) {
   * {
     margin: 0;
     padding: 0;
@@ -22,7 +22,7 @@
 
   .top img {
     width: 200px;
-    padding-top: 130px;
+    padding-top: 100px;
   }
 
   .top h1 {
@@ -55,7 +55,7 @@
   .header-left h1 {
     font-family: cursive;
     color: #FFFF00;
-    padding: 2rem 3rem;
+    padding: 10px 30px;
   }
 
   .header-right {
@@ -70,7 +70,7 @@
 .menu-wrap label {
     background-color: #666;
     display: block;
-    padding: 1.8rem;
+    padding: 18px;
     cursor: pointer;
     text-align: center;
 }
@@ -178,7 +178,7 @@
   }
 
   .me-top img {
-    width: 50%;
+    width: 50px;
   }
 
   .about-left {
@@ -198,7 +198,8 @@
   }
 
   .character-top img {
-    width: 50%;
+    width: 40px;
+    padding-right: 20px;
   }
 
   .character-list {
@@ -207,7 +208,8 @@
   }
 
   .character-list img {
-    width: 50%;
+    width: 30px;
+    padding-right: 10px;
   }
 
   .character-list p {
@@ -289,7 +291,7 @@
   .lp img {
     width: 40px;
     position: absolute;
-    left: 45%;
+    left: 47%;
     top: 17%;
   }
 
@@ -312,8 +314,8 @@
   .cording img {
     width: 40px;
     position: absolute;
-    top: 18%;
-    left: 43%;
+    top: 20%;
+    left: 47%;
   }
 
   .cording h2 {
