@@ -55,7 +55,7 @@
   .header-left h1 {
     font-family: cursive;
     color: #FFFF00;
-    padding: 10px 30px;
+    padding: 1rem 3rem;
   }
 
   .header-right {
@@ -70,7 +70,7 @@
 .menu-wrap label {
     background-color: #666;
     display: block;
-    padding: 18px;
+    padding: 1.8rem;
     cursor: pointer;
     text-align: center;
 }
