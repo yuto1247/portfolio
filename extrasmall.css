@@ -22,7 +22,7 @@
 
   .top img {
     width: 200px;
-    padding-top: 100px;
+    padding-top: 130px;
   }
 
   .top h1 {
@@ -77,7 +77,6 @@
 
 .menu {
   width: 1.2rem;
- padding-top: 1rem;
 }
 .menu-wrap input {
     display: none;
@@ -179,7 +178,7 @@
   }
 
   .me-top img {
-    display: none;
+    width: 50%;
   }
 
   .about-left {
@@ -199,7 +198,7 @@
   }
 
   .character-top img {
-    display: none;
+    width: 50%;
   }
 
   .character-list {
@@ -208,7 +207,7 @@
   }
 
   .character-list img {
-    display: none;
+    width: 50%;
   }
 
   .character-list p {
