@@ -39,7 +39,7 @@ if(mb_send_mail($to, $subject2, $content2, $mailfrom)){
    mb_send_mail($mailto,$subject,$content,$mailfrom);
    ?>
    <script>
-       window.location = "#";
+       window.location = "https://yuto1247.github.io/portfolio/";
    </script>
    <?php
 } else {
