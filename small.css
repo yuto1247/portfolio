@@ -159,6 +159,10 @@
   .me-top {
     display: flex;
   }
+ 
+ .check {
+    display: none;
+ }
 
   .you {
     padding-top: 150px;
