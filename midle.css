@@ -158,6 +158,10 @@
   .small {
     display: none;
   }
+ 
+  .check {
+     display: none;
+ }
 
   .me-top h2 {
     padding-left: 20px;
