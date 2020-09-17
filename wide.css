@@ -139,6 +139,10 @@
     color: #fff;
   }
 
+  .check {
+    display: none;
+  }
+
   #about {
     font-family: serif;
     text-align: center;
@@ -154,10 +158,6 @@
     padding-bottom: 200px;
     display: flex;
   }
- 
-  .check {
-     display: none;
- }
 
   .small {
     display: none;
@@ -325,7 +325,6 @@
     font-family: serif;
   }
 
-  
 
   footer {
     text-align: center;
