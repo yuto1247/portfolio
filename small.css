@@ -21,7 +21,7 @@
 
   .top img {
     width: 200px;
-    padding-top: 100px;
+    padding-top: 10rem;
   }
 
   .top h1 {
@@ -159,10 +159,10 @@
   .me-top {
     display: flex;
   }
- 
- .check {
+
+  .check {
     display: none;
- }
+  }
 
   .you {
     padding-top: 150px;
@@ -340,7 +340,6 @@
     font-family: serif;
   }
 
-  
 
   footer {
     text-align: center;
