@@ -194,8 +194,7 @@
   }
 
   .character-top img {
-    width: 10%;
-    padding-right: 1rem;
+    display: none;
   }
 
   .character-list {
