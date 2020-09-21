@@ -1,4 +1,4 @@
-var baseW = 992;
+var baseW = ;
 var ua = navigator.userAgent.toLowerCase();
 var isiPad = (ua.indexOf("ipad") > -1);
 function updateMetaViewport(){
