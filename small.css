@@ -294,8 +294,8 @@
 
   .lp-image {
     text-align: center;
- }
-  
+  }
+
   .lp h2 {
     text-align: center;
     color: #FF8C00;
@@ -308,17 +308,17 @@
     display: inline-block;
     background-color: #fff;
     width: 40%;
-    padding: 80px 20px 30px 20px;
+    padding: 55px 20px 30px 20px;
     margin-left: 20px;
   }
 
   .cording img {
     width: 40px;
   }
- 
+
   .cording-image {
     text-align: center;
- }
+  }
 
   .cording h2 {
     text-align: center;
