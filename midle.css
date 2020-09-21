@@ -25,9 +25,9 @@
   }
 
   .top h1 {
+    font-family: cursive;
     font-size: 40px;
     letter-spacing: 1px;
-    font-family: cursive;
     padding-bottom: 2rem;
   }
 
@@ -142,7 +142,7 @@
   #about {
     font-family: serif;
     text-align: center;
-    padding-top: 50px;
+    padding-top: 5rem;
   }
 
   .me-top {
@@ -154,8 +154,8 @@
   }
 
   .you {
-    padding-top: 150px;
-    padding-bottom: 200px;
+    padding-top: 10rem;
+    padding-bottom: 15rem;
     display: flex;
   }
 
@@ -164,26 +164,25 @@
   }
 
   .me-top h2 {
-    padding-left: 20px;
-    padding-top: 10px;
+    padding-left: 2rem;
+    padding-top: 1rem;
   }
 
   .me-top img {
-    width: 50px;
-   height: 50px;
+    width: 4rem;
   }
 
   .about-left {
-    padding-left: 80px;
+    padding-left: 6rem;
     width: 50%;
   }
 
   .me p {
-    padding-top: 30px;
+    padding-top: 2rem;
   }
 
   .character {
-    padding-top: 40px;
+    padding-top: 3rem;
   }
 
   .character-top {
@@ -191,34 +190,32 @@
   }
 
   .character-top img {
-    width: 40px;
-   height: 40px;
-    padding-right: 20px;
+    width: 3rem;
+    padding-right: 1.5rem;
   }
 
   .character-list {
     display: flex;
-    padding-top: 15px;
+    padding-top: 1rem;
   }
 
   .character-list img {
-    width: 30px;
-   height: 30px;
-    padding-right: 10px;
+    width: 2rem;
+    padding-right: 1rem;
   }
 
   .character-list p {
-    padding-top: 5px;
+    padding-top: 0.5rem;
   }
 
   .about-right img {
      width: 500px;
      border-radius: 50%;
-     margin-right: 80px;
+     margin-right: 6rem;
   }
 
   #work {
-    padding-top: 50px;
+    padding-top: 4rem;
     text-align: center;
     font-family: serif;
   }
@@ -229,7 +226,7 @@
 
   .worker {
     display: flex;
-    padding-top: 50px;
+    padding-top: 4rem;
   }
 
   .works a {
@@ -262,17 +259,17 @@
 
   #service {
     text-align: center;
-    padding-top: 50px;
+    padding-top: 5rem;
     font-family: serif;
     color: #fff;
   }
 
   .lp {
-    margin-top: 100px;
+    margin-top: 10rem;
     display: inline-block;
     background-color: #fff;
     width: 40%;
-    padding: 80px 20px 30px 20px;
+    padding: 8rem 2rem 3rem 2rem;
     margin-left: 5rem;
   }
 
@@ -281,7 +278,7 @@
   }
 
   .lp img {
-    width: 40px;
+    width: 3rem;
   }
 
   .lp h2 {
@@ -296,12 +293,12 @@
     display: inline-block;
     background-color: #fff;
     width: 40%;
-    padding: 80px 20px 30px 20px;
-    margin-left: 20px;
+    padding: 8rem 2rem 3rem 2rem;
+    margin-left: 2rem;
   }
 
   .cording img {
-    width: 40px;
+    width: 4rem;
   }
 
   .cording-image {
@@ -323,7 +320,7 @@
   }
 
   #contact {
-    padding-top: 50px;
+    padding-top: 5rem;
     text-align: center;
     font-family: serif;
   }
@@ -331,9 +328,9 @@
 
   footer {
     text-align: center;
-    padding: 30px;
+    padding: 3rem;
     background-color: #000022;
     color: #fff;
-    font-size: 12px;
+    font-size: 1.2rem;
   }
 }
