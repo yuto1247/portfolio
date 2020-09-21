@@ -170,6 +170,7 @@
 
   .me-top img {
     width: 50px;
+   height: 50px;
   }
 
   .about-left {
@@ -191,6 +192,7 @@
 
   .character-top img {
     width: 40px;
+   height: 40px;
     padding-right: 20px;
   }
 
@@ -201,6 +203,7 @@
 
   .character-list img {
     width: 30px;
+   height: 30px;
     padding-right: 10px;
   }
 
