@@ -21,7 +21,7 @@
 
   .top img {
     width: 220px;
-    padding-top: 12rem;
+    padding-top: 10rem;
   }
 
   .top h1 {
@@ -145,9 +145,14 @@
     padding-top: 5rem;
   }
 
-  .me-top img {
+  .me-top {
+    display: flex;
+  }
+
+  .check {
     display: none;
   }
+
   .you {
     padding-top: 10rem;
     padding-bottom: 15rem;
@@ -163,6 +168,10 @@
     padding-top: 1rem;
   }
 
+  .me-top img {
+    width: 4rem;
+  }
+
   .about-left {
     padding-left: 6rem;
     width: 50%;
@@ -176,16 +185,23 @@
     padding-top: 3rem;
   }
 
+  .character-top {
+    display: flex;
+  }
+
   .character-top img {
-    display: none;
+    width: 3rem;
+    padding-right: 1.5rem;
   }
 
   .character-list {
+    display: flex;
     padding-top: 1rem;
   }
 
-  .character-list img 
-     display: none; 
+  .character-list img {
+    width: 2rem;
+    padding-right: 1rem;
   }
 
   .character-list p {
