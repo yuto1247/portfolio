@@ -145,14 +145,9 @@
     padding-top: 5rem;
   }
 
-  .me-top {
-    display: flex;
-  }
-
-  .check {
+  .me-top img {
     display: none;
   }
-
   .you {
     padding-top: 10rem;
     padding-bottom: 15rem;
@@ -168,10 +163,6 @@
     padding-top: 1rem;
   }
 
-  .me-top img {
-    width: 4rem;
-  }
-
   .about-left {
     padding-left: 6rem;
     width: 50%;
@@ -185,23 +176,16 @@
     padding-top: 3rem;
   }
 
-  .character-top {
-    display: flex;
-  }
-
   .character-top img {
-    width: 3rem;
-    padding-right: 1.5rem;
+    display: none;
   }
 
   .character-list {
-    display: flex;
     padding-top: 1rem;
   }
 
-  .character-list img {
-    width: 2rem;
-    padding-right: 1rem;
+  .character-list img 
+     display: none; 
   }
 
   .character-list p {
