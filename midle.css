@@ -271,14 +271,14 @@
     width: 40%;
     padding: 80px 20px 30px 20px;
     margin-left: 5rem;
-    position: relative;
   }
 
   .lp img {
     width: 40px;
-    position: absolute;
-    top: 20%;
-    left: 47%;
+  }
+ 
+ .lp-image {
+    text-align: center;
   }
 
   .lp h2 {
@@ -295,14 +295,14 @@
     width: 40%;
     padding: 80px 20px 30px 20px;
     margin-left: 20px;
-    position: relative;
   }
 
   .cording img {
     width: 40px;
-    position: absolute;
-    top: 20%;
-    left: 46%;
+  }
+ 
+ .cording-image {
+   text-align: center;
   }
 
   .cording h2 {
