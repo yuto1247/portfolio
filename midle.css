@@ -273,12 +273,12 @@
     margin-left: 5rem;
   }
 
+  .lp-image {
+    text-align: center;
+  }
+
   .lp img {
     width: 40px;
-  }
- 
- .lp-image {
-    text-align: center;
   }
 
   .lp h2 {
@@ -300,9 +300,9 @@
   .cording img {
     width: 40px;
   }
- 
- .cording-image {
-   text-align: center;
+
+  .cording-image {
+    text-align: center;
   }
 
   .cording h2 {
