@@ -271,15 +271,15 @@
     width: 40%;
     padding: 80px 20px 30px 20px;
     margin-left: 5rem;
- }
+  }
+
+  .lp-image {
+    text-align: center;
+  }
 
   .lp img {
     width: 40px;
   }
- 
- .lp-image {
-    text-align: center;
- }
 
   .lp h2 {
     text-align: center;
@@ -297,12 +297,12 @@
     margin-left: 20px;
   }
 
+  .cording-image {
+    text-align: center;
+  }
+
   .cording img {
     width: 40px;
-  }
- 
- .cording-image {
-    text-align: center;
   }
 
   .cording h2 {
